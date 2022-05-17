@@ -14,8 +14,6 @@ wget https://raw.githubusercontent.com/upggr/nginx-varnish-perfect-server/master
 wget https://raw.githubusercontent.com/upggr/nginx-varnish-perfect-server/master/varnish.service
 wget https://raw.githubusercontent.com/upggr/nginx-varnish-perfect-server/master/wordpress.template
 wget https://raw.githubusercontent.com/upggr/nginx-varnish-perfect-server/master/www.conf
-wget https://raw.githubusercontent.com/upggr/nginx-varnish-perfect-server/master/vsftpd.conf
-
 chmod a+x new-simple-site.sh
 chmod a+x new-wordpress-site.sh
 chmod a+x fresh-install.sh
