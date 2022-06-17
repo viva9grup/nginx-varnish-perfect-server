@@ -5,7 +5,7 @@
 <b>Usage</b> :<br>
 Head to [digital ocean](https://m.do.co/c/6e83df0e17c6) or wherever, create a 5-10$ server (UBUNTU 16+), login as root, and run the following :
 <br>
-`curl -sL https://raw.githubusercontent.com/upggr/nginx-varnish-perfect-server/master/install.sh | sudo bash -`
+`curl -sL https://raw.githubusercontent.com/viva9grup/nginx-varnish-perfect-server/master/install.sh | sudo bash -`
 
 Run the following to create your first wordpess installation :<br>
 `./new-wordpress-site.sh yourdomain.com` (replacing with your domain, no www allowed)
