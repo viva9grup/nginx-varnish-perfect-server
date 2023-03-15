@@ -4,7 +4,7 @@ sudo apt-get update
 sudo apt -y install software-properties-common
 sudo add-apt-repository ppa:ondrej/php -y
 sudo apt-get update
-sudo apt-get install htop nginx php7.4-cli php7.4-curl php7.4-dev php7.4-fpm php7.4-gd php7.4-mcrypt php7.4-opcache php-mbstring php7.4-mbstring php7.4-sybase freetds-common libsybdb5 php-gettext mariadb-server mariadb-client unzip varnish ufw -y
+sudo apt-get install htop host nginx php7.4-cli php7.4-curl php7.4-dev php7.4-fpm php7.4-gd php7.4-mcrypt php7.4-opcache php-mbstring php7.4-mbstring php7.4-sybase freetds-common libsybdb5 mariadb-server mariadb-client unzip varnish ufw -y
 sudo service php7.4-fpm restart
 sudo service nginx restart
 sudo service varnish restart
